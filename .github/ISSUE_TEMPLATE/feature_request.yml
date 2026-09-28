@@ -1,0 +1,16 @@
+name: 功能许愿
+description: 分享你的使用场景和希望改善的体验
+title: '[想法] '
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 你在什么场景遇到什么困难？
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 希望同频怎样帮助你？
+    validations:
+      required: true

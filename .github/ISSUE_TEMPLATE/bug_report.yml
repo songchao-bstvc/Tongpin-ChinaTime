@@ -1,0 +1,33 @@
+name: 问题反馈
+description: 帮助我们定位时间、提醒、外观或兼容问题
+title: '[问题] '
+body:
+  - type: markdown
+    attributes:
+      value: 请勿上传私人备忘、备份、密码或未经检查的日志。截图请先去除私人内容。
+  - type: input
+    id: version
+    attributes:
+      label: 同频版本
+      placeholder: v2.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 运行环境
+      description: Windows 版本、屏幕数量/分辨率/缩放、任务栏工具、系统时区。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重现步骤与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true

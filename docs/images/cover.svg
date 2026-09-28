@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-labelledby="title desc">
+  <title id="title">同频 — 相隔时区，也能同频。</title>
+  <desc id="desc">深蓝色品牌插画。中国与纽约两只时钟通过一条细线相连，表达跨越时区的陪伴。时钟数值为场景示意。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d2c"/><stop offset="1" stop-color="#0b111c"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#408895" stop-opacity=".2"/><stop offset="1" stop-color="#408895" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#82accc"/><stop offset="1" stop-color="#92c6b4"/></linearGradient>
+  </defs>
+  <rect width="1200" height="580" rx="28" fill="url(#bg)"/>
+  <circle cx="990" cy="230" r="380" fill="url(#glow)"/>
+  <g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif">
+    <g transform="translate(66 57)">
+      <circle cx="17" cy="17" r="16" fill="none" stroke="#a8c4de" stroke-width="2"/>
+      <path d="M17 7V17L24 21" fill="none" stroke="#a8c4de" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="32" cy="5" r="4" fill="#9ac9b8"/>
+      <text x="53" y="25" fill="#e9eff7" font-size="26" letter-spacing="3">同频</text>
+      <text x="133" y="24" fill="#8095ac" font-family="'Segoe UI',sans-serif" font-size="15" letter-spacing="4">TONGPIN</text>
+    </g>
+    <text x="65" y="204" fill="#f1f4f9" font-size="62" font-weight="600">相隔时区，</text>
+    <text x="65" y="282" fill="#abcfd0" font-size="62" font-weight="600">也能同频。</text>
+    <text x="68" y="340" fill="#b4c0ce" font-size="23">让中国时间，安静地陪在桌面上。</text>
+    <text x="68" y="384" fill="#8698ac" font-size="18">每一天 · 每一分 · 每一秒</text>
+    <g transform="translate(718 102)">
+      <circle cx="160" cy="145" r="177" fill="none" stroke="#a3c8d3" stroke-opacity=".10"/>
+      <circle cx="160" cy="145" r="131" fill="none" stroke="#a3c8d3" stroke-opacity=".08" stroke-dasharray="2 10"/>
+      <path d="M-10 242Q112 94 320 42" fill="none" stroke="url(#line)" stroke-width="1.5" stroke-opacity=".65"/>
+      <g transform="translate(49 7)">
+        <rect width="273" height="155" rx="22" fill="#243745" stroke="#6a9aab" stroke-opacity=".3"/>
+        <circle cx="27" cy="31" r="4" fill="#9bcab8"/>
+        <text x="42" y="37" fill="#c1d9da" font-size="17">中国标准时间</text>
+        <text x="24" y="99" fill="#f1f6fb" font-family="'Segoe UI',sans-serif" font-size="53" font-weight="300">09:30</text>
+        <text x="26" y="130" fill="#9eb5c5" font-size="16">9月28日 周一 · UTC+8</text>
+      </g>
+      <g transform="translate(-39 205)">
+        <rect width="247" height="128" rx="20" fill="#152334" stroke="#92b2d2" stroke-opacity=".2"/>
+        <text x="23" y="32" fill="#9cacc0" font-size="16">纽约的前一晚</text>
+        <text x="21" y="85" fill="#c2d0e2" font-family="'Segoe UI',sans-serif" font-size="44" font-weight="300">21:30</text>
+        <text x="23" y="111" fill="#7c91a9" font-size="14">9月27日 周日 · 夏令时</text>
+      </g>
+      <circle cx="307" cy="274" r="5" fill="#b4cbd7"/>
+      <circle cx="335" cy="231" r="2" fill="#6c8b9f"/>
+      <circle cx="-18" cy="99" r="3" fill="#b7c3ae"/>
+    </g>
+    <path d="M66 467H1134" stroke="#71879e" stroke-opacity=".22"/>
+    <text x="68" y="515" fill="#a4b5c8" font-size="18">透明时钟</text>
+    <text x="197" y="515" fill="#4f6379" font-size="18">/</text>
+    <text x="232" y="515" fill="#a4b5c8" font-size="18">中国日历</text>
+    <text x="361" y="515" fill="#4f6379" font-size="18">/</text>
+    <text x="396" y="515" fill="#a4b5c8" font-size="18">私人备忘</text>
+    <text x="1134" y="514" fill="#869bb0" text-anchor="end" font-size="15">Windows · 免费开源 · MIT</text>
+  </g>
+</svg>
