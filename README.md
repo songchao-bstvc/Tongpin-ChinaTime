@@ -9,10 +9,10 @@
 让中国时间，安静地陪在桌面上。<br>
 每一天、每一分、每一秒，和在意的人共用同一份时间。
 
-[![最新版本](https://img.shields.io/github/v/release/songchao-bstvc/Tongpin-ChinaTime?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=82b9c7)](https://github.com/songchao-bstvc/Tongpin-ChinaTime/releases/latest)
+[![版本 v2.0.0](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-v2.0.0-82b9c7)](https://github.com/songchao-bstvc/Tongpin-ChinaTime/releases/latest)
 [![Windows x64](https://img.shields.io/badge/Windows-11%20%C2%B7%20x64-526b93)](#下载与开始使用)
 [![MIT](https://img.shields.io/badge/License-MIT-a6c9ae)](LICENSE)
-[![构建与自检](https://github.com/songchao-bstvc/Tongpin-ChinaTime/actions/workflows/build.yml/badge.svg)](https://github.com/songchao-bstvc/Tongpin-ChinaTime/actions/workflows/build.yml)
+[![构建与自检](https://github.com/songchao-bstvc/Tongpin-ChinaTime/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/songchao-bstvc/Tongpin-ChinaTime/actions/workflows/build.yml)
 [![Stars](https://img.shields.io/github/stars/songchao-bstvc/Tongpin-ChinaTime?style=flat&label=Star&color=d8b77b)](https://github.com/songchao-bstvc/Tongpin-ChinaTime/stargazers)
 
 ### [⬇ 下载 Windows 版](https://github.com/songchao-bstvc/Tongpin-ChinaTime/releases/latest/download/Tongpin-ChinaTime-v2.0.0-windows-x64.zip) · [查看使用指南](docs/QUICK_START.md) · [反馈与许愿](https://github.com/songchao-bstvc/Tongpin-ChinaTime/issues)
